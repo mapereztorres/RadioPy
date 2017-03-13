@@ -1,0 +1,8 @@
+Appendix 2 - Tables
+
+0 -	calcular la tabla (matriz de datos) 
+
+1 -	exportar la tabla a un fichero (se hace una vez). Ese fichero esta guardado en la 		carpeta en cuestión. Cuando se descarga el paquete se descarga también este fichero 		lleno de datos.
+
+2 -	Se implementa una función de cálculo que lo que hace es leer ese fichero a
+	toda velocidad, calculando un intervalo de interés y después hace una interpolación en 		el seno de ese intevalo, retornando el valor requerido.

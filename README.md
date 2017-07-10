@@ -16,7 +16,7 @@ Copyright, Licensing, and Re-distribution
 
 The RadioPy code is distribution under the following license:
 
-  Authors:  Miguel Gonzalez San Emeterio
+  Authors:  Miguel Gonzalez San Emeterio, 
             Miguel A. Perez-Torres
            
   Copyright (c) 2017 Universidad de Zaragoza

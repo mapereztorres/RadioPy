@@ -10,9 +10,39 @@ created by ultrarelativistic electrons. Astrophysical events regarding
 this particular form of electromagnetic emission could be
 radiogalaxies, quasares, or super novae, among others.
 
-License
--------
-RadioPy is open source. See file LICENSE.txt
+
+Copyright, Licensing, and Re-distribution
+-----------------------------------------
+
+The RadioPy code is distribution under the following license:
+
+  Authors: Miguel Gonzalez San Emterio
+           Miguel A. Perez-Torres
+  Copyright (c) 2017 Universidad de Zaragoza
+
+  Permission to use and redistribute the source code or binary forms of this
+  software and its documentation, with or without modification, is hereby
+  granted provided that the above notice of copyright, these terms of use,
+  and the disclaimer of warranty below appear in the source code and
+  documentation, and that the names of the above institution or
+  authors appear in advertising or endorsement of works derived from this
+  software without specific prior written permission from all parties.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL
+  THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+  DEALINGS IN THIS SOFTWARE.
+
+
+Download
+--------
+Download from this repository the compressed folder 
+"download_radiopy.zip"
+Then open and extract it to give access to the package and its
+features.
 
 Installation
 ------------
